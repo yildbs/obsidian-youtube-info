@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-test-illo",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "https://github.com/yildbs/obsidian-practice",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
