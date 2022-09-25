@@ -3,7 +3,7 @@
 	"name": "Obsidian Youtube Info",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This project is for parsing youtube video page info",
+	"description": "A plugin for extracting information from youtube",
 	"author": "yildbs",
 	"authorUrl": "https://github.com/yildbs/obsidian-youtube-info",
 	"isDesktopOnly": false

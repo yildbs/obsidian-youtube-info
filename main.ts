@@ -30,7 +30,7 @@ export default class YoutubeVideoInfo extends Plugin {
 				const lines = content.split(/\r?\n/);
 				const youtubeUrl = lines[0];
 
-				new Notice(youtubeUrl);
+				new Notice(`URL : ${youtubeUrl}`);
 				const result = await getYoutubeInfo(youtubeUrl);
 
 				// Join Frontmatter And text
